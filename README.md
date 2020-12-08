@@ -38,6 +38,11 @@ Get it
 * Organize offline paid course with Mentor instruction
 * Student who have difficulty self-studying can join offline paid course
 
+## How to get user:
+* Register account to join
+* Unlock course content by share on facebook
+
+
 ## Techstack: 
 * Front-end: react
-* Back-end: wordpress for content management
+* Back-end: wordpress docusaurus for content management
