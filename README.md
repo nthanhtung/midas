@@ -22,12 +22,15 @@ Get it
     * Get A mark in Math/Probability subject FTU in 1 week
     * Master online selling lazada, tiki, shopee, facebook in 1 week
     * Master real estate selling in 1 week
+    * Study aboard in 6 months
+    * Fluent English interview in 1 month
   * Courses content/materials will be free to access by all users
 * Mentor:
   * Mentor can create profile with reference to their linkedin
   * Mentor will select courses which they can mentor
   * Mentor can create new course, admin will review new course and publish
   * Can create learning blog to share their knowledge (like medium)
+  * Mentor will have a page like shopee/facebook
 * Students:
   * Student can learn all the course for free
   * Student can create profile to find learning partner in their neighborhood
