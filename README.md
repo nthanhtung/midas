@@ -1,8 +1,10 @@
-# vtproject
+[[_TOC_]]
+
+# 1. Anonymous forum about student life
 ## Project name:
-Get it
+slife (short form of student life)
 ## Product features:
-* Create a collection of top trending course
+* Create a collection of free trending course
   * A course should have:
     * Materials: pdf book, website, video
     * Study plan: 
@@ -25,24 +27,21 @@ Get it
     * Study aboard in 6 months
     * Fluent English interview in 1 month
   * Courses content/materials will be free to access by all users
-* Mentor:
-  * Mentor can create profile with reference to their linkedin
-  * Mentor will select courses which they can mentor
-  * Mentor can create new course, admin will review new course and publish
-  * Can create learning blog to share their knowledge (like medium)
-  * Mentor will have a page like shopee/facebook
-* Students:
-  * Student can learn all the course for free
-  * Student can create profile to find learning partner in their neighborhood
+* Secure confession box about cong ty, su nghiep, khoa hoc, cuoc thi:
+  * each cong ty, su nghiep, khoa hoc, cuoc thi is a category
+   * there will be discrete objects inside each category. like cong ty: coca, unilever, sun*
+  * user can can create new discrete object with review from category admin
+  * reference: https://reviewcongty.com/
 ## How to make money to maintain:
-* Organize offline paid course with Mentor instruction
-* Student who have difficulty self-studying can join offline paid course
+* Paid ads/content: job, service
 
 ## How to get user:
-* Register account to join
 * Unlock course content by share on facebook
-
 
 ## Techstack: 
 * Front-end: react
-* Back-end: wordpress docusaurus for content management
+* Back-end: content management system 
+
+# 2. Fake AI generated face from actual photo
+
+# 3. Strava + Support Execise app to get fit
