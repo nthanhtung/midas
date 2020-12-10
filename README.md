@@ -56,4 +56,19 @@ slife (short form of student life)
     * Fluent English interview in 1 month
   * Courses content/materials will be free to access by all users
 
-# 5. Extract data & build report from social media : https://supermetrics.com/
+# 5. Extract data & build report from social media :
+
+https://supermetrics.com/
+https://www.windsor.ai/
+
+SaaS service to collect social media data
+User can directly use pre-built SaaS report
+Tech stack: 
+* Back end :
+ * Spring boot api
+* Front end:
+ * React
+ * Power Bi embedded
+
+
+
