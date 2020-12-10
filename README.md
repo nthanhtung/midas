@@ -9,7 +9,7 @@ slife (short form of student life)
     * there will be discrete objects inside each category. like cong ty: coca, unilever, sun*
     * user can can create new discrete object with review from category admin
     * we should create trending objects & add dummy content in advance
-  * reference: https://reviewcongty.com/ 
+  * reference: https://reviewcongty.com/   https://www.facebook.com/neuconfessions
 ## How to make money to maintain:
 * Paid ads/content: job, service
 
