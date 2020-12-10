@@ -58,17 +58,22 @@ slife (short form of student life)
 
 # 5. Extract data & build report from social media :
 
-https://supermetrics.com/
-https://www.windsor.ai/
+https://supermetrics.com/ \
+https://www.windsor.ai/ 
 
-SaaS service to collect social media data
-User can directly use pre-built SaaS report
+SaaS service to collect social media data \
+User can directly use pre-built SaaS report \
 Tech stack: 
 * Back end :
- * Spring boot api
+  * Spring boot
+  * Native social media api: \
+    https://github.com/facebook/facebook-java-business-sdk \
+    https://developers.google.com/adwords/api/docs/guides/start \
+    https://developers.google.com/youtube/reporting \
+    https://ads.tiktok.com/marketing_api/docs?rid=fsle2mgqswe&id=100509 \
 * Front end:
- * React
- * Power Bi embedded
-
+  * React
+  * Power Bi embedded \ 
+    https://powerbi.microsoft.com/en-us/power-bi-embedded/
 
 
