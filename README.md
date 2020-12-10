@@ -1,5 +1,6 @@
-[[_TOC_]]
 
+# Purpose
+learning
 # 1. Anonymous forum about student life
 ## Project name:
 slife (short form of student life)
