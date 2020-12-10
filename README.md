@@ -4,6 +4,28 @@
 ## Project name:
 slife (short form of student life)
 ## Product features:
+* Secure confession box about cong ty, su nghiep, khoa hoc, cuoc thi:
+  * each cong ty, su nghiep, khoa hoc, cuoc thi is a category
+    * there will be discrete objects inside each category. like cong ty: coca, unilever, sun*
+    * user can can create new discrete object with review from category admin
+    * we should create trending objects & add dummy content in advance
+  * reference: https://reviewcongty.com/ 
+## How to make money to maintain:
+* Paid ads/content: job, service
+
+## How to get user:
+* Unlock course content by share on facebook
+
+## Techstack: 
+* Front-end: react
+* Back-end: content management system 
+
+# 2. Fake AI generated face from actual photo
+
+# 3. Strava + Support Execise app to get fit
+
+# 4. Career Hack
+## Feature:
 * Create a collection of free trending course
   * A course should have:
     * Materials: pdf book, website, video
@@ -27,21 +49,3 @@ slife (short form of student life)
     * Study aboard in 6 months
     * Fluent English interview in 1 month
   * Courses content/materials will be free to access by all users
-* Secure confession box about cong ty, su nghiep, khoa hoc, cuoc thi:
-  * each cong ty, su nghiep, khoa hoc, cuoc thi is a category
-   * there will be discrete objects inside each category. like cong ty: coca, unilever, sun*
-  * user can can create new discrete object with review from category admin
-  * reference: https://reviewcongty.com/
-## How to make money to maintain:
-* Paid ads/content: job, service
-
-## How to get user:
-* Unlock course content by share on facebook
-
-## Techstack: 
-* Front-end: react
-* Back-end: content management system 
-
-# 2. Fake AI generated face from actual photo
-
-# 3. Strava + Support Execise app to get fit
