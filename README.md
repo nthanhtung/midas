@@ -60,8 +60,10 @@ slife (short form of student life)
 
 https://supermetrics.com/ \
 https://www.windsor.ai/ 
+https://www.terraform.io/
 
-SaaS service to collect social media data \
+
+SaaS central service to call social media graph data - terraform for social media \
 User can directly use pre-built SaaS report \
 Tech stack: 
 * Back end :
